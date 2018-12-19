@@ -29,7 +29,7 @@ vc?.delegate = self"
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="/gifs/Photo_Map.gif?raw=true" width="" alt= 'Video Walkthrough'>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
